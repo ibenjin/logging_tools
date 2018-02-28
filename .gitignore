@@ -1,0 +1,9 @@
+*.pyc
+*.swp
+*.tmp
+.idea
+*build*
+*egg*
+*dist*
+*test*
+*yml
