@@ -7,3 +7,4 @@
 - python tool.py -s  source_bucket -t target_bucket -p prefix
 - 登录 腾讯云 cos 控制台，授予根账号 100001001014 对 target bucket 的读取和写入权限
 
+注意，logging设置只对北京地域有效
